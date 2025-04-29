@@ -8,7 +8,7 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=MaxKuvshinov&style=flat-square&color=blueviolet&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/spxd007) 
+[![Telegram](https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k_OFFFF) 
 [![GitHub](https://img.shields.io/badge/-MaxKuvshinov-181717?style=flat-square&logo=github)](https://github.com/MaxKuvshinov)
 
 </div>
