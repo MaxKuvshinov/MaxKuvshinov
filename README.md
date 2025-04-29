@@ -110,6 +110,3 @@ def backend_expertise():
 
 ---
 
-### 🐍 My Contribution Snake
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/MaxKuvshinov/MaxKuvshinov/output/github-contribution-grid-snake.svg)
