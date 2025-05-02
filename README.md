@@ -86,20 +86,20 @@ def backend_expertise():
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My Stats:
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKuvshinov&show_icons=true&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/MaxKuvshinov)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKuvshinov&layout=compact&theme=dark&title_color=58A6FF&text_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/MaxKuvshinov)
-
-## 🏆 GitHub Achievements
-
-<div align="center" style="margin: 20px 0;">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaxKuvshinov&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+ 
+ <div align="center">
+ 
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKuvshinov&show_icons=true&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/MaxKuvshinov)
+ 
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKuvshinov&layout=compact&theme=dark&title_color=58A6FF&text_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/MaxKuvshinov)
+ 
+ ## 🏆 GitHub Achievements
+ 
+ <div align="center" style="margin: 20px 0;">
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MaxKuvshinov&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
