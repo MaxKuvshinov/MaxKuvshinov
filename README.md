@@ -107,8 +107,8 @@ def backend_expertise():
 
 <p align="center">
 <a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
-<a href="https://twitter.com/makskuv" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" 
-</p>
+<a href="https://twitter.com/makskuv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/32px-X_logo_2023_%28white%29.png" width="30" height="30" alt="X (Twitter)">
+</a>
 
 </div>
 
