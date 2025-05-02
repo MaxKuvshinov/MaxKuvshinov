@@ -44,19 +44,6 @@ I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, special
 - 🚀 Improving my system design skills  
 - 🏃‍♂️ Training for my next half-marathon
 
-<div align="center">
-
-## 📞 Connect with me
-
-<p align="center">
-<a href="mailto:maksim.kuvshinov94@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/32px-Gmail_icon_%282020%29.svg.png" width="35" height="30" alt="Gmail"></a>
-<a href="https://t.me/k_OFFFF" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/32px-Telegram_2019_Logo.svg.png" width="35" height="30" alt="Telegram"></a>
-<a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="30" alt="instagram logo"  /></a>
-<a href="https://twitter.com/makskuv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/32px-X_logo_2023_%28white%29.png" width="35" height="30" alt="X (Twitter)"></a>
-</p>
-
-</div> 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Technologies and Tools I use:
@@ -115,3 +102,16 @@ def backend_expertise():
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📞 Connect with me
+
+<p align="center">
+<a href="mailto:maksim.kuvshinov94@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/32px-Gmail_icon_%282020%29.svg.png" width="35" height="30" alt="Gmail"></a>
+<a href="https://t.me/k_OFFFF" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/32px-Telegram_2019_Logo.svg.png" width="35" height="30" alt="Telegram"></a>
+<a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="30" alt="instagram logo"  /></a>
+<a href="https://twitter.com/makskuv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/32px-X_logo_2023_%28white%29.png" width="35" height="30" alt="X (Twitter)"></a>
+</p>
+
+</div> 
