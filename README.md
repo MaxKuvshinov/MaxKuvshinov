@@ -1,7 +1,5 @@
 <div align="center">
   <img src="image/header.png">
-  <a href="https://t.me/k_OFFFF"><img src="https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a> 
-  <a href="https://github.com/MaxKuvshinov"><img src="https://img.shields.io/badge/-MaxKuvshinov-181717?style=flat-square&logo=github"></a>
   <br>
    <img src="https://komarev.com/ghpvc/?username=MaxKuvshinov&label=Profile%20views&color=0e75b6&style=flat" alt="MaxKuvshinov" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MaxKuvshinov"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/MaxKuvshinov">
@@ -16,6 +14,10 @@
 
 ### 👨‍💻 About Me
 I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, specializing in high-performance web applications.  
+
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+</p>
 
 💼 **Professional**:  
 - 🐍 Commercial experience with Django and Django REST Framework  
@@ -71,6 +73,11 @@ def backend_expertise():
         "performance": ["Asynchronous Tasks", "Celery", "Background Processing"]
     }
 ```
+
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
 
 ---
 
