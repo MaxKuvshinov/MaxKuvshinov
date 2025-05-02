@@ -24,7 +24,7 @@ I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, special
 - 🏗️ Build RESTful APIs using DRF  
 - ⚡ Optimize web application performance  
 - 🐳 Work with Docker and CI/CD pipelines  
-- ✨ Passionate about writing clean, efficient code  
+- ✨ Passionate about writing clean, efficient code
 
 🏃 **Personal**:  
 - 🏆 Sports enthusiast - regular runner and fitness lover  
@@ -100,4 +100,15 @@ def backend_expertise():
 </div>
 
 ---
+
+<div align="center">
+
+## 📞 Connect with me
+
+<p align="center">
+<a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
+<a href="https://twitter.com/makskuv" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" 
+</p>
+
+</div>
 
