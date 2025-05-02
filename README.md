@@ -10,9 +10,7 @@
   I'm Maksim Kuvshinov, Python Backend Developer 🐍
 </h1>
 
----
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, specializing in high-performance web applications.  
 
 <p align = 'right'>
@@ -36,11 +34,22 @@ I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, special
 🎯 **Current Focus**:  
 - 🌱 Learning advanced Django patterns  
 - 🚀 Improving my system design skills  
-- 🏃‍♂️ Training for my next half-marathon  
+- 🏃‍♂️ Training for my next half-marathon
 
----
+<div align="center">
 
-### 🛠 Technologies and Tools I use:
+## 📞 Connect with me
+
+<p align="center">
+<a href="mailto:maksim.kuvshinov94@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/32px-Gmail_icon_%282020%29.svg.png" width="35" height="30" alt="Gmail"></a>
+<a href="https://t.me/k_OFFFF" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/32px-Telegram_2019_Logo.svg.png" width="35" height="30" alt="Telegram"></a>
+<a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="30" alt="instagram logo"  /></a>
+<a href="https://twitter.com/makskuv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/32px-X_logo_2023_%28white%29.png" width="35" height="30" alt="X (Twitter)"></a>
+</p>
+
+</div> 
+
+## 🛠 Technologies and Tools I use:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -59,9 +68,7 @@ I'm Maksim Kuvshinov, Python Backend Developer based in Moscow 🇷🇺, special
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 💡 Core Skills:
+## 💡 Core Skills:
 
 ```python
 def backend_expertise():
@@ -79,9 +86,7 @@ def backend_expertise():
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
 
----
-
-### 📊 My Stats:
+## 📊 My Stats:
 
 <div align="center">
 
@@ -89,26 +94,11 @@ def backend_expertise():
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKuvshinov&layout=compact&theme=dark&title_color=58A6FF&text_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/MaxKuvshinov)
 
----
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center" style="margin: 20px 0;">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaxKuvshinov&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-<div align="center">
-
-## 📞 Connect with me
-
-<p align="center">
-<a href="https://instagram.com/kuvshin_off"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
-<a href="https://twitter.com/makskuv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/32px-X_logo_2023_%28white%29.png" width="30" height="30" alt="X (Twitter)">
-</a>
-
-</div>
-
