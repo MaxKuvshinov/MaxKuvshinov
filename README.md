@@ -1,9 +1,10 @@
 <div align="center">
   <img src="image/header.png">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=MaxKuvshinov&label=Profile%20views&color=0e75b6&style=flat" alt="MaxKuvshinov" />
   <a href="https://t.me/k_OFFFF"><img src="https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a> 
   <a href="https://github.com/MaxKuvshinov"><img src="https://img.shields.io/badge/-MaxKuvshinov-181717?style=flat-square&logo=github"></a>
+  <br>
+   <img src="https://komarev.com/ghpvc/?username=MaxKuvshinov&label=Profile%20views&color=0e75b6&style=flat" alt="MaxKuvshinov" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/MaxKuvshinov"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/MaxKuvshinov">
 </div>
 
 <h1 align="center">
