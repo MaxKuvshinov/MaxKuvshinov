@@ -1,17 +1,15 @@
-<h2 align="center">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I'm Maksim Kuvshinov, Python Backend Developer 🐍<br>
-  <br>
-  <img src="image/dev-working_rounded.gif" alt="Python Coder" width="500">
-</h2>
-
 <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=MaxKuvshinov&style=flat-square&color=blueviolet&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k_OFFFF) 
-[![GitHub](https://img.shields.io/badge/-MaxKuvshinov-181717?style=flat-square&logo=github)](https://github.com/MaxKuvshinov)
-
+  <img src="image/header.png">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MaxKuvshinov&label=Profile%20views&color=0e75b6&style=flat" alt="MaxKuvshinov" />
+  <a href="https://t.me/k_OFFFF"><img src="https://img.shields.io/badge/@k_OFFFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a> 
+  <a href="https://github.com/MaxKuvshinov"><img src="https://img.shields.io/badge/-MaxKuvshinov-181717?style=flat-square&logo=github"></a>
 </div>
+
+<h1 align="center">
+  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  I'm Maksim Kuvshinov, Python Backend Developer 🐍
+</h1>
 
 ---
 
